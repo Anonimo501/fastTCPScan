@@ -1,5 +1,10 @@
 # fastTCPScan
 
+# Redes sociales
+
+Telegram: https://t.me/Pen7esting
+Youtube: https://www.youtube.com/c/Anonimo501
+
 ## OS
 Parrot OS 4.11
 
