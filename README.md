@@ -1,5 +1,10 @@
 # fastTCPScan
 
+## OS
+Parrot OS 4.11
+
+![1](https://user-images.githubusercontent.com/67207446/127932967-7582234e-9610-41a8-9b44-46ebf5f9b287.PNG)
+
 ## Install
 
 git clone https://github.com/Anonimo501/fastTCPScan.git
